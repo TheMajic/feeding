@@ -4,11 +4,5 @@ uvicorn[standard]>=0.27
 pydantic>=2.6
 langdetect>=1.0.9
 streamlit>=1.32
-=======
-fastapi>=0.110
-uvicorn[standard]>=0.27
-pydantic>=2.6
-langdetect>=1.0.9
-streamlit>=1.32
 reportlab>=3.5.67
 >>>>>>> ff2a62e17416e0980795ae00419b37268caa8749
