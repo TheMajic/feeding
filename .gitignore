@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.pyc
@@ -6,3 +7,13 @@ __pycache__/
 data/
 runs/
 
+=======
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+data/
+runs/
+
+>>>>>>> ff2a62e17416e0980795ae00419b37268caa8749

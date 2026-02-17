@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Training / GPU extras (optional)
 torch
 transformers>=4.41
@@ -8,3 +9,15 @@ trl>=0.9
 
 # Quantization (optional; Windows support may vary)
 bitsandbytes; platform_system != "Windows"
+=======
+# Training / GPU extras (optional)
+torch
+transformers>=4.41
+datasets>=2.19
+accelerate>=0.31
+peft>=0.11
+trl>=0.9
+
+# Quantization (optional; Windows support may vary)
+bitsandbytes; platform_system != "Windows"
+>>>>>>> ff2a62e17416e0980795ae00419b37268caa8749
