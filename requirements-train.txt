@@ -1,0 +1,10 @@
+# Training / GPU extras (optional)
+torch
+transformers>=4.41
+datasets>=2.19
+accelerate>=0.31
+peft>=0.11
+trl>=0.9
+
+# Quantization (optional; Windows support may vary)
+bitsandbytes; platform_system != "Windows"
